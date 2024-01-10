@@ -1,0 +1,24 @@
+# Built application files
+*.apk
+*.ap_
+*.class
+*.dex
+*.o
+*.so
+*.aar
+
+# Gradle files
+.gradle/
+/build/
+/captures/
+*.log
+
+# IDE files
+.idea/
+*.iml
+.gradle
+local.properties
+
+# OS-specific files
+.DS_Store
+Thumbs.db
